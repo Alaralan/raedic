@@ -16,7 +16,7 @@ python3 raedic.py palabra1 palabra2
 ```
 
 ---
-### Desde otro fichero python
+### Desde otro fichero pythonnnnnnnnnnnn
 Para Incluirlo en nuestro script de python3 solo necesitaremos el script "raedic.py":
 ```
 import raedic

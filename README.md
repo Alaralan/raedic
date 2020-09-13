@@ -15,6 +15,7 @@ Desde línea de comandos podemos buscar una o varias palabras ejecutando:
 python3 raedic.py palabra1 palabra2
 ```
 
+---
 ### Desde otro fichero python
 Para Incluirlo en nuestro script de python3 solo necesitaremos el script "raedic.py":
 ```

@@ -1,6 +1,8 @@
 # raedic
 Definiciones obtenidas de la [Real Academia Española - RAE](https://dle.rae.es).
 
+cambio
+
 ---
 ### Instalación
 Clonamos el repositorio.

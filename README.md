@@ -1,7 +1,7 @@
 # raedic
 Definiciones obtenidas de la [Real Academia Española - RAE](https://dle.rae.es).
 
-Creado by Alan
+Creado por Alan
 ---
 ### Requisitos
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)

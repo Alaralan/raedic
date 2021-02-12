@@ -2,7 +2,7 @@
 Definiciones obtenidas de la [Real Academia Española - RAE](https://dle.rae.es).
 
 ---
-### Requisitos
+# Requisitos
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 ```
 apt install python3-bs4

@@ -7,10 +7,10 @@ def BuscarPalabra(arg1):
 	Busca una palabra en el diccionario de la RAE.
 	
 	Args:
-		arg1 (str): Palabra a buscar
+	· (str)		Palabra a buscar
 	
-	Returns:
-		list: Resultado de la búsqueda.
+	Returns
+	· (list)	Resultado de la búsqueda.
 		
 		Nota:
 			list[0]						-- Cabecera

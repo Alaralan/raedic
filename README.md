@@ -31,6 +31,6 @@ import raedic
 
 ** La función devuelve una lista. **
 ```
-for line in raedic.BuscarPalabra("palabra
+for line in raedic.BuscarPalabra("palabra")
 	print(line)
 ```
